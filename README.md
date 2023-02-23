@@ -1,4 +1,4 @@
-# Fetch Data Analytics MahithaPillodi
+# Fetch Data Analytics - Submission by Mahitha Pillodi
 
 This repository is part of the Data Analytics internship at Fetch, WI.
 
